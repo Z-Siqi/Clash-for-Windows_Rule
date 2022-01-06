@@ -1,5 +1,5 @@
 # Netflix country rules
-# 针对Netflix区域的规则
+# 对于Netflix区域的规则
 
   - DOMAIN-SUFFIX,netflix.com,Netflix
   - DOMAIN-SUFFIX,netflix.net,Netflix
