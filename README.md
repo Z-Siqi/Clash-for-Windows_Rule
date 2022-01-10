@@ -3,6 +3,8 @@ some commonly used rules
 
 一些常用的规则
 
+**[查看配置模板](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/template)**
+
 ****
 
 ## 用于分流网络的规则
