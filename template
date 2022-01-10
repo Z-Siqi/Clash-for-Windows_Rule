@@ -5,14 +5,40 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 
-Proxy:    #节点信息
+proxies:    #节点信息
+- name: "ss1"
+  type: ss
+  server: server
+  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: "password"
+  # udp: true  
 
-Proxy Group:  #节点群组
-
-Rule:  # 规则
-- DOMAIN-SUFFIX,---,DIRECT 
-- DOMAIN-KEYWORD,---,DIRECT
-- DOMAIN,---,DIRECT
-- DOMAIN-SUFFIX,---,REJECT
+- name: "ss2"
+  type: ss
+  server: server
+  port: 443
+  cipher: AEAD_CHACHA20_POLY1305
+  password: "password"
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: bing.com
+proxy-groups:  #节点群组
+- name: "Proxy"
+  type: select
+  proxies:
+  - "ss1"
+  - "ss2"
+- name: "Google"
+  type: select
+  proxies:
+  - "ss1"
+  - "ss2"
+rules:  # 规则
+- DOMAIN-SUFFIX,google.com,DIRECT 
+- DOMAIN-KEYWORD,google.com,DIRECT
+- DOMAIN,google.com,DIRECT
+- DOMAIN-SUFFIX,google.com,REJECT
 - GEOIP,CN,DIRECT
 - MATCH,DIRECT
