@@ -13,7 +13,7 @@ some commonly used rules
 
 ## 对于用于禁用的规则
 
-* NULL
+* [广告](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Advertising)
 
 ## 用于直连的规则
 
