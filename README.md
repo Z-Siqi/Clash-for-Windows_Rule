@@ -10,6 +10,7 @@ some commonly used rules
 ## 用于分流网络的规则
 
 * [对于Netflix区域的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Netflix)
+* [对于Spotify区域的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Spotify)
 
 ## 对于用于禁用的规则
 
