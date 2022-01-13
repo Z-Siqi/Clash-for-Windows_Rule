@@ -1,3 +1,12 @@
+# About Github rules
+# 对于Github的规则
+
+################
+# name: Github #
+# type: select #
+# proxies:     #
+################
+
 # Github
 - DOMAIN-SUFFIX,github.com,Github
 - DOMAIN-SUFFIX,githubassets.com,Github
