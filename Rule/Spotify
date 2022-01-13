@@ -1,3 +1,12 @@
+# Spotify country rules
+# 对于Spotify的规则
+
+################
+# name: Spotify#
+# type: select #
+# proxies:     #
+################
+
 # Spotify
 - DOMAIN-SUFFIX,pscdn.co,Spotify
 - DOMAIN-SUFFIX,scdn.co,Spotify
