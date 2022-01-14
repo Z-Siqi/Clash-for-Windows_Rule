@@ -12,6 +12,7 @@ some commonly used rules
 * [对于Netflix区域的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Netflix)
 * [对于Spotify区域的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Spotify)
 * [对于Github区域的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Github)
+* [对于Steam区域的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Steam)
 
 ## 对于用于禁用的规则
 
