@@ -1,3 +1,7 @@
+# 配置中的 # 符号是注释符号，你可以任意修改/删除有 # 符号的那一行
+# The # symbol in the configuration is a comment symbol,
+# You can arbitrarily modify/delete the line with the # sign.
+
 port: 7890
 socks-port: 7891
 allow-lan: false
@@ -5,7 +9,8 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 
-proxies:    #节点信息
+# 节点信息
+proxies:
 - name: "ss1"
   type: ss
   server: server
@@ -24,7 +29,8 @@ proxies:    #节点信息
   plugin-opts:
     mode: tls
     host: bing.com
-proxy-groups:  #节点群组
+# 节点群组
+proxy-groups:
 - name: "Proxy"
   type: select
   proxies:
@@ -35,10 +41,14 @@ proxy-groups:  #节点群组
   proxies:
   - "ss1"
   - "ss2"
-rules:  # 规则
-- DOMAIN-SUFFIX,google.com,DIRECT 
-- DOMAIN-KEYWORD,google.com,DIRECT
-- DOMAIN,google.com,DIRECT
-- DOMAIN-SUFFIX,google.com,REJECT
-- GEOIP,CN,DIRECT
+# 规则
+rules:
+# Google
+- DOMAIN-SUFFIX,google.com,Google
+- DOMAIN-KEYWORD,google,Google
+
+# Only China, if you don't need, you can delete
+# 除非你知道你在做什么，否则这些规则请保留
 - MATCH,Proxy
+- GEOIP,CN,DIRECT
+# end
