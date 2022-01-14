@@ -2,9 +2,12 @@
 # 对于Steam的规则
 
 ################
-# name: Spotify#
+# proxy-groups #
+# name: Steam  #
 # type: select #
 # proxies:     #
+#   - 'Proxy'  #
+#   - 'DIRECT' #
 ################
 
 #Steam
@@ -15,3 +18,12 @@
 - DOMAIN-SUFFIX,steamstatic.com,Steam
 - DOMAIN-SUFFIX,steam-chat.com,Steam
 - DOMAIN-KEYWORD,steamuserimages,Steam
+
+
+# About China, you can delete all of the following.
+# 对于中国, 如果你不需要, 可以删除下面的全部内容
+# 
+# 你可以尝试将16, 17, 13行末尾的Steam替换为Proxy以达到可以进入社区的效果
+# 外加可以在开机时自动启动代理时避开令人烦恼的输入登录密码
+# 
+# 购买游戏时最好还是改回全部直连
