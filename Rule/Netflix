@@ -1,12 +1,7 @@
 # Netflix country rules
 # 对于Netflix区域的规则
 
-################
-# name: Netflix#
-# type: select #
-# proxies:     #
-################
-
+# Netflix
 - DOMAIN-SUFFIX,netflix.com,Netflix
 - DOMAIN-SUFFIX,netflix.net,Netflix
 - DOMAIN-SUFFIX,nflxext.com,Netflix
