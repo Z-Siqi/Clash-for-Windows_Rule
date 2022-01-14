@@ -41,4 +41,4 @@ rules:  # 规则
 - DOMAIN,google.com,DIRECT
 - DOMAIN-SUFFIX,google.com,REJECT
 - GEOIP,CN,DIRECT
-- MATCH,DIRECT
+- MATCH,Proxy
