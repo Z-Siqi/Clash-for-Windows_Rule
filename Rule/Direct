@@ -1,11 +1,5 @@
  # 不需要代理的规则 (大陆网站)
 
-###############
-#name: DIRECT #
-#type: select #
-#proxies:     #
-###############
-
 - IP-CIDR,185.188.32.0/24,DIRECT,no-resolve
 - IP-CIDR,185.188.33.0/24,DIRECT,no-resolve
 - IP-CIDR,185.188.34.0/24,DIRECT,no-resolve
@@ -255,3 +249,9 @@
 - DOMAIN-SUFFIX,zimuzu.tv,DIRECT
 - DOMAIN-SUFFIX,zmz002.com,DIRECT
 - DOMAIN-SUFFIX,www.88dmw.com,DIRECT
+- DOMAIN-SUFFIX,tanx.com,China Website
+- DOMAIN-SUFFIX,gvt0.com,China Website
+- DOMAIN-SUFFIX,gvt1.com,China Website
+- DOMAIN-SUFFIX,gvt2.com,China Website
+- DOMAIN-SUFFIX,gvt3.com,China Website
+- DOMAIN-SUFFIX,alibaba.com,China Website
