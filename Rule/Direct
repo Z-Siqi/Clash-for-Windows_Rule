@@ -249,6 +249,6 @@
 - DOMAIN-SUFFIX,zimuzu.tv,DIRECT
 - DOMAIN-SUFFIX,zmz002.com,DIRECT
 - DOMAIN-SUFFIX,www.88dmw.com,DIRECT
-- DOMAIN-SUFFIX,tanx.com,China Website
-- DOMAIN-SUFFIX,alibaba.com,China Website
-- GEOIP,CN,China Website
+- DOMAIN-SUFFIX,tanx.com,DIRECT
+- DOMAIN-SUFFIX,alibaba.com,DIRECT
+- GEOIP,CN,DIRECT
