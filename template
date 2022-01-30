@@ -46,4 +46,6 @@ rules:
 # Google
 - DOMAIN-SUFFIX,google.com,Google
 - DOMAIN-KEYWORD,google,Google
+
+# Proxy
 - MATCH,Proxy
