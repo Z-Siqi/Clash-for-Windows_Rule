@@ -46,9 +46,4 @@ rules:
 # Google
 - DOMAIN-SUFFIX,google.com,Google
 - DOMAIN-KEYWORD,google,Google
-
-# Only China, if you don't need, you can delete
-# 除非你知道你在做什么，否则这些规则请保留
 - MATCH,Proxy
-- GEOIP,CN,DIRECT
-# end
