@@ -1,8 +1,8 @@
 # YouTube
-- DOMAIN-KEYWORD,youtube,Youtube
-- DOMAIN,yt3.ggpht.com,Youtube
-- DOMAIN-SUFFIX,googlevideo.com,Youtube
-- DOMAIN-SUFFIX,gvt2.com,Youtube
-- DOMAIN-SUFFIX,youtu.be,Youtube
-- DOMAIN-SUFFIX,ytimg.com,Youtube
-- DOMAIN-SUFFIX,music.youtube.com,Youtube
+- DOMAIN-KEYWORD,youtube,YouTube
+- DOMAIN,yt3.ggpht.com,YouTube
+- DOMAIN-SUFFIX,googlevideo.com,YouTube
+- DOMAIN-SUFFIX,gvt2.com,YouTube
+- DOMAIN-SUFFIX,youtu.be,YouTube
+- DOMAIN-SUFFIX,ytimg.com,YouTube
+- DOMAIN-SUFFIX,music.youtube.com,YouTube
