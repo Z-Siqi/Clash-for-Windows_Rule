@@ -1,0 +1,13 @@
+# note: Does not contain YouTube.
+# 注意: 不包含YouTube
+
+- DOMAIN-SUFFIX,google.com,Google
+- DOMAIN-SUFFIX,googleapis.com,Google
+- DOMAIN-SUFFIX,android.com,Google
+- DOMAIN-SUFFIX,withgoogle.com,Google
+- DOMAIN-SUFFIX,blogger.com,Google
+- DOMAIN-SUFFIX,waze.com,Google
+- DOMAIN-SUFFIX,gmail.com,Google
+- DOMAIN-KEYWORD,businessmessages,Google
+- DOMAIN-KEYWORD,chrome,Google
+- DOMAIN-KEYWORD,google,Google
