@@ -1,6 +1,7 @@
 # note: Does not contain YouTube.
 # 注意: 不包含YouTube
 
+# Google
 - DOMAIN-SUFFIX,google.com,Google
 - DOMAIN-SUFFIX,googleapis.com,Google
 - DOMAIN-SUFFIX,android.com,Google
