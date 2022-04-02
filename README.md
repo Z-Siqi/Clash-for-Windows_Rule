@@ -19,7 +19,7 @@ some commonly used rules
 * [对于Microsoft区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Microsoft)
 * [对于Google区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google)
 * [对于Disney+区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Disney%2B)
-* [Apple](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Apple)
+* [对于Apple区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Apple)
 
 ## 对于用于禁用的规则
 
