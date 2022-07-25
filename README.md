@@ -20,6 +20,7 @@ some commonly used rules
 * [对于Google区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google)
 * [对于Disney+区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Disney%2B)
 * [对于Apple区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Apple)
+* [对于Pixiv区域的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Pixiv)
 
 ## 对于用于禁用的规则
 
