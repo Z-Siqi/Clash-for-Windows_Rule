@@ -2,3 +2,6 @@
 - DOMAIN-SUFFIX,github.com,Github
 - DOMAIN-SUFFIX,githubassets.com,Github
 - DOMAIN-SUFFIX,githubusercontent.com,Github
+- DOMAIN-SUFFIX,ghcr.io,Github
+- DOMAIN-SUFFIX,github.io,Github
+- DOMAIN-SUFFIX,githubapp.com,Github
