@@ -12,6 +12,7 @@
 - DOMAIN-KEYWORD,optimizely,Microsoft
 - DOMAIN-KEYWORD,outlook,Microsoft
 - DOMAIN-KEYWORD,microsoft365,Microsoft
+- DOMAIN-SUFFIX,gamepass.com,Microsoft
 - DOMAIN-SUFFIX,assets-yammer.com,Microsoft
 - DOMAIN-SUFFIX,footprintdns.com,Microsoft
 - DOMAIN-SUFFIX,storage.live.com,Microsoft
