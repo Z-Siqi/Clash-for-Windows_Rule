@@ -31,7 +31,7 @@ some commonly used rules
 * [对于Pinterest的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Pinterest)
 * [对于Reddit的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Reddit)
 * [对于Snapchat的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Snapchat)
-* [对于Tiktok的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Tiktok)
+* [对于TikTok的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/TikTok)
 * [对于Tinder的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Tinder)
 * [对于Twitter的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Twitter)
 * [对于VK的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/VK)
