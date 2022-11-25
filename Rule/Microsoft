@@ -12,7 +12,12 @@
 - DOMAIN-KEYWORD,optimizely,Microsoft
 - DOMAIN-KEYWORD,outlook,Microsoft
 - DOMAIN-KEYWORD,microsoft365,Microsoft
+- DOMAIN-SUFFIX,assets-yammer.com,Microsoft
+- DOMAIN-SUFFIX,footprintdns.com,Microsoft
 - DOMAIN-SUFFIX,storage.live.com,Microsoft
+- DOMAIN-SUFFIX,microsoft.com,Microsoft
+- DOMAIN-SUFFIX,microsoftonline-p.com,Microsoft
+- DOMAIN-SUFFIX,microsoftonline.com,Microsoft
 - DOMAIN-SUFFIX,msxiaobing.com,Microsoft
 - DOMAIN-SUFFIX,msxiaoice.com,Microsoft
 - DOMAIN-SUFFIX,msxiaona.cn,Microsoft
@@ -36,6 +41,8 @@
 - DOMAIN-SUFFIX,msn.com.cn,Microsoft
 - DOMAIN-SUFFIX,msn.com.nsatc.net,Microsoft
 - DOMAIN-SUFFIX,msn.com.tw,Microsoft
+- DOMAIN-SUFFIX,msocdn.com,Microsoft
+- DOMAIN-SUFFIX,msocsp.com,Microsoft
 - DOMAIN-SUFFIX,bibg.com,Microsoft
 - DOMAIN-SUFFIX,biing.com,Microsoft
 - DOMAIN-SUFFIX,xbox360.com,Microsoft
@@ -49,9 +56,15 @@
 - DOMAIN-SUFFIX,live.eu,Microsoft
 - DOMAIN-SUFFIX,live.net,Microsoft
 - DOMAIN-SUFFIX,office.com,Microsoft
+- DOMAIN-SUFFIX,office.de,Microsoft
 - DOMAIN-SUFFIX,office.net,Microsoft
+- DOMAIN-SUFFIX,office.microsoft,Microsoft
 - DOMAIN-SUFFIX,office365.com,Microsoft
+- DOMAIN-SUFFIX,office365.us,Microsoft
+- DOMAIN-SUFFIX,o365filtering.com,Microsoft
 - DOMAIN-SUFFIX,officedev.cn,Microsoft
+- DOMAIN-SUFFIX,onmicrosoft.com,Microsoft
+- DOMAIN-SUFFIX,svc.ms,Microsoft
 - DOMAIN-SUFFIX,minecraft.net,Microsoft
 - DOMAIN-SUFFIX,minecraftshop.com,Microsoft
 - DOMAIN-SUFFIX,mojang.com,Microsoft
@@ -74,3 +87,4 @@
 - DOMAIN-SUFFIX,meetfasttrack.com,Microsoft
 - DOMAIN-SUFFIX,meetyourdevices.com,Microsoft
 - DOMAIN-SUFFIX,mepn.com,Microsoft
+- DOMAIN-SUFFIX,yammer.com,Microsoft
