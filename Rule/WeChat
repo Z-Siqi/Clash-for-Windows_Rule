@@ -1,6 +1,6 @@
 # WeChat
-- DOMAIN-SUFFIX,wechat.com
-- DOMAIN-SUFFIX,qpic.cn
-- DOMAIN-SUFFIX,wechatpay.cn
-- DOMAIN-KEYWORD,weixin
-- DOMAIN-KEYWORD,wechat
+- DOMAIN-SUFFIX,wechat.com,WeChat
+- DOMAIN-SUFFIX,qpic.cn,WeChat
+- DOMAIN-SUFFIX,wechatpay.cn,WeChat
+- DOMAIN-KEYWORD,weixin,WeChat
+- DOMAIN-KEYWORD,wechat,WeChat
