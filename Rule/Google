@@ -2,13 +2,18 @@
 # 注意: 不包含YouTube
 
 # Google
+- DOMAIN-SUFFIX,1e100.net,Google
+- DOMAIN-SUFFIX,g.co,Google
 - DOMAIN-SUFFIX,google.com,Google
 - DOMAIN-SUFFIX,googleapis.com,Google
+- DOMAIN-SUFFIX,gstatic.com,Google
+- DOMAIN-SUFFIX,gv2.com,Google
+- DOMAIN-SUFFIX,gv3.com,Google
 - DOMAIN-SUFFIX,android.com,Google
 - DOMAIN-SUFFIX,withgoogle.com,Google
 - DOMAIN-SUFFIX,blogger.com,Google
 - DOMAIN-SUFFIX,waze.com,Google
 - DOMAIN-SUFFIX,gmail.com,Google
+- DOMAIN-KEYWORD,google,Google
 - DOMAIN-KEYWORD,businessmessages,Google
 - DOMAIN-KEYWORD,chrome,Google
-- DOMAIN-KEYWORD,google,Google
