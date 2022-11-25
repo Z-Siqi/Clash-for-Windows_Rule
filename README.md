@@ -44,6 +44,11 @@ some commonly used rules
 ### 游戏相关
 * [对于Steam的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Steam)
 
+### 购物相关
+* [对于Amazon的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Amazon)
+* [对于Ebay的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Ebay)
+* [对于Etsy的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Etsy)
+
 ### 搜索相关
 * [对于Google的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google)
 * [对于Baidu的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Baidu)
@@ -67,7 +72,7 @@ some commonly used rules
 * [对于Apple的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Apple)
 * [对于Google的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google) (于`搜索相关`中的一样)
 
-## 对于用于禁用的规则
+## 用于禁用的规则
 
 * [广告](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Advertising)
 
@@ -77,7 +82,7 @@ some commonly used rules
 
 ***
 
-**完全不会写?**
+**不太会写规则?**
 
 #### [查看配置模板](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/template/README.md)
 
