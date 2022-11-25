@@ -1,7 +1,7 @@
 # Skype
-- DOMAIN-SUFFIX,cloudapp.net
-- DOMAIN-SUFFIX,lync.com
-- DOMAIN-SUFFIX,sfbassets.com
-- DOMAIN-SUFFIX,skype.com
-- DOMAIN-SUFFIX,skypeassets.com
-- DOMAIN-SUFFIX,skypeforbusiness.com
+- DOMAIN-SUFFIX,cloudapp.net,Skype
+- DOMAIN-SUFFIX,lync.com,Skype
+- DOMAIN-SUFFIX,sfbassets.com,Skype
+- DOMAIN-SUFFIX,skype.com,Skype
+- DOMAIN-SUFFIX,skypeassets.com,Skype
+- DOMAIN-SUFFIX,skypeforbusiness.com,Skype
