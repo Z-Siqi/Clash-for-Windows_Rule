@@ -1,4 +1,5 @@
 # Advertising
+# Suggestion to using Adguard to block advertisements
 - DOMAIN-SUFFIX,adv.gacloudltd.co,ADS
 - DOMAIN-SUFFIX,adsystem.com,ADS
 - DOMAIN-KEYWORD,admarvel,ADS
