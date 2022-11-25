@@ -43,6 +43,7 @@ Clash分流规则
 
 ### 游戏相关
 * [对于Steam的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Steam)
+* [对于RockstarGames的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Rockstar-Games)
 
 ### 购物相关
 * [对于Amazon的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Amazon)
