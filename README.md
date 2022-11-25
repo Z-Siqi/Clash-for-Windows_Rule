@@ -1,10 +1,10 @@
 # Clash-for-Windows_Rule
 
-**这是适用于Clash的分流配置规则，可以用于设定代理规则 (例如组织某些网站被代理, 或让某些网站被特定地区的服务器代理)**
+**这是适用于Clash的分流配置规则，可以用于设定代理规则 (例如阻止某些网站被代理, 或让某些网站被特定地区的服务器代理)**
 
-some commonly used rules
+Clash proxy rules. Make a website/media be proxied by a specific country server.
 
-一些常用的分流规则
+Clash分流规则
 
 ***
 
@@ -67,10 +67,10 @@ some commonly used rules
 * [对于Zoom meeting的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Zoom)
 
 ### 整合后的相关服务
-*如果同时添加已包含了的可能出现分流错误*
-* [对于Microsoft的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Microsoft) (包括 Bing, Microsoft Office, OneDrive)
+*如果同时添加已包含了的规则可能出现分流错误，建议将这些规则放在配置的最后*
+* [对于Microsoft的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Microsoft) (包括 Bing, Microsoft Office, OneDrive, Xbox)
 * [对于Apple的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Apple)
-* [对于Google的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google) (于`搜索相关`中的一样)
+* [对于Google的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google) (与`搜索相关`中的一样)
 
 ## 用于禁用的规则
 
