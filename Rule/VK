@@ -1,5 +1,5 @@
 # VK
-- DOMAIN-SUFFIX,vk.com
-- DOMAIN-SUFFIX,userapi.com
-- DOMAIN-SUFFIX,vk-portal.net
-- DOMAIN-SUFFIX,vkuservideo.net
+- DOMAIN-SUFFIX,vk.com,VK
+- DOMAIN-SUFFIX,userapi.com,VK
+- DOMAIN-SUFFIX,vk-portal.net,VK
+- DOMAIN-SUFFIX,vkuservideo.net,VK
