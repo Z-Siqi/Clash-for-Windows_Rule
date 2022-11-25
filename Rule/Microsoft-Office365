@@ -1,0 +1,29 @@
+# Microsoft Office and OneDrive
+# These have been include in the Microsoft
+- DOMAIN-SUFFIX,assets-yammer.com,Office
+- DOMAIN-SUFFIX,footprintdns.com,Office
+- DOMAIN-SUFFIX,microsoft.com,Office
+- DOMAIN-SUFFIX,live.com,Office
+- DOMAIN-SUFFIX,live.com.au,Office
+- DOMAIN-SUFFIX,live.eu,Office
+- DOMAIN-SUFFIX,live.net,Office
+- DOMAIN-SUFFIX,storage.live.com,Office
+- DOMAIN-SUFFIX,livefilestore.com,Office
+- DOMAIN-SUFFIX,microsoftonline.com,Office
+- DOMAIN-SUFFIX,microsoftonline-p.com,Office
+- DOMAIN-SUFFIX,o365filtering.com,Office
+- DOMAIN-SUFFIX,msocsp.com,Office
+- DOMAIN-SUFFIX,msocdn.com,Office
+- DOMAIN-SUFFIX,office.com,Office
+- DOMAIN-SUFFIX,office.de,Office
+- DOMAIN-SUFFIX,office.microsoft,Office
+- DOMAIN-SUFFIX,office.net,Office
+- DOMAIN-SUFFIX,office365.com,Office
+- DOMAIN-SUFFIX,office365.us,Office
+- DOMAIN-SUFFIX,office365love.com,Office
+- DOMAIN-SUFFIX,office365tw.com,Office
+- DOMAIN-SUFFIX,officedev.cn,Office
+- DOMAIN-SUFFIX,renovacionoffice.com,Office
+- DOMAIN-SUFFIX,onmicrosoft.com,Office
+- DOMAIN-SUFFIX,svc.ms,Office
+- DOMAIN-SUFFIX,yammer.com,Office
