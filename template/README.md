@@ -74,6 +74,8 @@ rules:
 
 如果服务端的配置没有关于相应的选项(例如vmess的`servername: servername`)就可以选择直接删除整行
 
+重要提示: Clash的规则会根据优先顺序应用 (从上到下)
+
 #### Shadowsocks 配置格式
 ````
 - name: "name"
