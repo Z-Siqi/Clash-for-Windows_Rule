@@ -1,8 +1,12 @@
 # YouTube
 - DOMAIN-KEYWORD,youtube,YouTube
 - DOMAIN,yt3.ggpht.com,YouTube
+- DOMAIN-SUFFIX,youtube-nocookie.com,YouTube
 - DOMAIN-SUFFIX,googlevideo.com,YouTube
+- DOMAIN-SUFFIX,ggpht.com,YouTube
+- DOMAIN-SUFFIX,gvt1.com,YouTube
 - DOMAIN-SUFFIX,gvt2.com,YouTube
 - DOMAIN-SUFFIX,youtu.be,YouTube
 - DOMAIN-SUFFIX,ytimg.com,YouTube
 - DOMAIN-SUFFIX,music.youtube.com,YouTube
+- DOMAIN-SUFFIX,youtubeeducation.com,YouTube
