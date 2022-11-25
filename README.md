@@ -24,7 +24,9 @@ some commonly used rules
 
 ### 社交媒体相关
 * [对于Facebook的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Facebook)
+* [对于Messenger的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Facebook-Messenger)
 * [对于Telegram的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Telegram)
+* [对于Discord的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Discord)
 * [对于Flickr的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Flickr)
 * [对于Instagram的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Instagram)
 * [对于LinkedIn的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/LinkedIn)
@@ -35,6 +37,9 @@ some commonly used rules
 * [对于Tinder的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Tinder)
 * [对于Twitter的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Twitter)
 * [对于VK的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/VK)
+* [对于Signal的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Signal)
+* [对于WeChat的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/WeChat)
+* [对于WhatsApp的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/WhatsApp)
 
 ### 游戏相关
 * [对于Steam的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Steam)
