@@ -1,12 +1,16 @@
 # Clash-for-Windows_Rule
 
-**这是适用于Clash的分流配置规则，可以用于设定代理规则 (例如阻止某些网站被代理, 或让某些网站被特定地区的服务器代理)**
-
 Clash proxy rules. Make a website/media be proxied by a specific country server.
 
-Clash分流规则
+***
+
+**中文|[English](https://github.com/ender-zhao/Clash-for-Windows_Rule/tree/main/English)**
 
 ***
+
+**这适用于Clash的分流配置规则，可以用于设定代理规则 (例如阻止某些网站被代理, 或让某些网站被特定地区的服务器代理)**
+
+Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Windows`, `Clash for Android`, `Clash for openwort`...
 
 ## 用于分流网络的规则
 
@@ -48,6 +52,8 @@ Clash分流规则
 * [对于Playstation的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Playstation)
 * [对于RockstarGames的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Rockstar-Games)
 * [对于Twitch的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Twitch)
+* [对于Ubisoft的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Ubisoft)
+* [对于Xbox的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Xbox)
 
 ### 购物相关
 * [对于Amazon的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Amazon)
@@ -56,9 +62,10 @@ Clash分流规则
 
 ### 搜索相关
 * [对于Google的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google)
-* [对于Baidu的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Baidu)
+* [对于WolframAlpha的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/WolframAlpha)
 * [对于Bing的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Bing)
 * [对于DuckDuckGo的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/DuckDuckGo)
+* [对于Baidu的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Baidu)
 * [对于Yahoo的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Yahoo)
 * [对于Pixiv的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Pixiv)
 
