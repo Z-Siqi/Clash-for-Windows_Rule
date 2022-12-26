@@ -78,6 +78,11 @@ Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Win
 * [对于Slack的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Slack)
 * [对于Zoom meeting的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Zoom)
 
+### 教育相关
+* [对于MuseScore的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/MuseScore)
+* [对于Star Walk 2的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Star-Walk-2)
+* [对于Science News的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Science-News)
+
 ### 整合后的相关服务
 *如果同时添加已包含了的规则可能出现分流错误，建议将这些规则放在配置的最后*
 * [对于Microsoft的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Microsoft) (包括 Bing, Microsoft Office, OneDrive, Xbox)
@@ -94,9 +99,15 @@ Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Win
 
 ***
 
-**不太会写规则?**
+#### 不熟悉规则语法?
 
-#### [查看配置模板](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/template/README.md)
+**[查看配置模板](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/template/README.md)**
+
+#### 不确定应用于网站的规则是否完全工作?
+
+**[查看已确定完全覆盖, 工作的规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Worked-Rules-List)**
+
+如果网站不在其中，并不代表着规则无效，仅代表着我不确定是否完全有效 (如果你确定规则有效但不在此列表中，请发布个`Pull requests`或直接用`Issues`通知我)
 
 ***
 
