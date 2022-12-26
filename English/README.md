@@ -78,6 +78,11 @@ Commonly used proxy medias Clash rules. Proxies config files format is suitable 
 * [Slack Rules](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Slack)
 * [Zoom meeting Rules](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Zoom)
 
+### Education
+* [MuseScore](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/MuseScore)
+* [Star Walk 2](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Star-Walk-2)
+* [Science News](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Science-News)
+
 ### Integrated Services
 *If you add the included rules at the same time, errors may occur. It is recommended to put these rules at the end of the configuration*
 * [Microsoft Rules](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Microsoft) (include Bing, Microsoft Office, OneDrive, Xbox)
@@ -90,9 +95,15 @@ Commonly used proxy medias Clash rules. Proxies config files format is suitable 
 
 ***
 
-**Can't write rules?**
+#### How to write rules?
 
-#### [Read config template](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/template/README.md)
+**[Read config template](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/template/README.md)**
+
+#### Are these rules fully working?
+
+**[See the Worked List](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Worked-Rules-List)**
+
+If the website is not in the List that doesn't mean rules cannot work, it just means I'm not sure it is work. (If you are sure the rules are working, create a `Pull requests` to help me.)
 
 ***
 
