@@ -62,6 +62,7 @@ Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Win
 
 ### 搜索相关
 * [对于Google的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Google)
+* [对于OpenAI(ChatGPT)的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/OpenAI)
 * [对于WolframAlpha的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/WolframAlpha)
 * [对于Bing的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/Bing)
 * [对于DuckDuckGo的分流规则](https://github.com/ender-zhao/Clash-for-Windows_Rule/blob/main/Rule/DuckDuckGo)
