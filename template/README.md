@@ -223,6 +223,96 @@ rules:
 - DOMAIN-KEYWORD,googleads,REJECT
 - DOMAIN-SUFFIX,doubleclick.net,REJECT
 - DOMAIN-SUFFIX,baidu.com,DIRECT
-
+- MATCH,Proxy
 ````
 </details>
+
+### 负载均衡的基本格式
+> 同一个eTLD+1的请求会拨到同一个proxy。
+<details><summary>点击以查看模板</summary>
+
+````
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: rule
+hosts:
+  services.googleapis.cn: 142.250.196.131
+  www.google.cn: 142.250.196.131
+  time.android.com: 203.107.6.88
+  www.msn.cn: 127.0.0.1
+log-level: info
+clash-for-android:
+  append-system-dns: false
+external-controller: '127.0.0.1:9090'
+secret: ''
+
+proxies:
+- name: "SERVER-1"
+  type: vmess
+  server: 123.123.123.001
+  port: 443
+  uuid: d364941a-6163-15ed-9b6a-0242ac100001
+  cipher: auto
+  alterId: 64
+  udp: true
+  skip-cert-verify: true
+
+- name: "SERVER-2"
+  server: 123.123.123.003
+  port: 443
+  cipher: aes-256-gcm
+  type: ss
+  password: "123456789"
+  udp: true
+
+- name: "SERVER-3"
+  server: example.com
+  port: 443
+  type: trojan
+  password: "123456789"
+  sni: example.com
+  skip-cert-verify: true
+  udp: true
+
+proxy-groups:
+# groups
+- name: "Proxy"
+  type: select
+  proxies:
+  - "LoadBalance"
+  - "SERVER-1"
+  - "SERVER-2"
+  - "SERVER-3"
+  - 'DIRECT'
+
+# LoadBalance
+# 负载均衡的配置内容可以存在多个(- name: "xxx" 不能重复)
+- name: "LoadBalance"
+  type: load-balance
+# url指的是自动ping的网站(用于确认延迟, 可以随意更改)
+  url: http://www.gstatic.com/generate_204
+# interval的值单位是(秒)
+  interval: 120
+# proxies放入你想用于负载均衡的节点
+  proxies:
+  - "SERVER-1"
+  - "SERVER-2"
+  - "SERVER-3"
+rules:
+
+# Rules example
+- DOMAIN-KEYWORD,google,Proxy
+- DOMAIN-KEYWORD,googleads,REJECT
+- DOMAIN-SUFFIX,doubleclick.net,REJECT
+- DOMAIN-SUFFIX,baidu.com,DIRECT
+- MATCH,Proxy
+````
+</details>
+
+****
+
+### Reference
+
+https://dreamacro.github.io/clash/configuration/introduction.html
