@@ -1,4 +1,6 @@
 # OpenAI (ChatGPT)
-
-- DOMAIN-SUFFIX,client.crisp.chat,OpenAI
 - DOMAIN-SUFFIX,chat.openai.com,OpenAI
+- DOMAIN-SUFFIX,auth0.openai.com,OpenAI
+- DOMAIN-SUFFIX,cdn.openai.com,OpenAI
+- DOMAIN-SUFFIX,openai.com,OpenAI
+- DOMAIN-SUFFIX,client.crisp.chat,OpenAI
