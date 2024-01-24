@@ -78,6 +78,7 @@ Commonly used proxy medias Clash rules. Proxies config files format is suitable 
 * [Skype Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Skype)
 * [Slack Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Slack)
 * [Zoom meeting Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Zoom)
+* [BitComet Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/BitComet)
 
 ### Education
 * [MuseScore](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/MuseScore)

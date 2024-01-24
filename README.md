@@ -78,6 +78,7 @@ Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Win
 * [对于Skype的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Skype)
 * [对于Slack的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Slack)
 * [对于Zoom meeting的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Zoom)
+* [对于BitComet的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/BitComet)
 
 ### 教育相关
 * [对于MuseScore的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/MuseScore)
