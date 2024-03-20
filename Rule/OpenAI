@@ -3,4 +3,5 @@
 - DOMAIN-SUFFIX,auth0.openai.com,OpenAI
 - DOMAIN-SUFFIX,cdn.openai.com,OpenAI
 - DOMAIN-SUFFIX,openai.com,OpenAI
+- DOMAIN-SUFFIX,ingest.sentry.io,OpenAI
 - DOMAIN-SUFFIX,client.crisp.chat,OpenAI
