@@ -1,7 +1,15 @@
 # OpenAI (ChatGPT)
+- DOMAIN-SUFFIX,chatgpt.com,OpenAI
 - DOMAIN-SUFFIX,chat.openai.com,OpenAI
 - DOMAIN-SUFFIX,auth0.openai.com,OpenAI
 - DOMAIN-SUFFIX,cdn.openai.com,OpenAI
+- DOMAIN-SUFFIX,oaistatic.com,OpenAI
+- DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
 - DOMAIN-SUFFIX,openai.com,OpenAI
+- DOMAIN-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+- DOMAIN-SUFFIX,openaicom.imgix.net,OpenAI
+- DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net,OpenAI
+- DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
 - DOMAIN-SUFFIX,ingest.sentry.io,OpenAI
+- DOMAIN-SUFFIX,ios.chat.openai.com.cdn.cloudflare.net,OpenAI
 - DOMAIN-SUFFIX,client.crisp.chat,OpenAI
