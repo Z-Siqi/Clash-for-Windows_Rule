@@ -13,3 +13,4 @@
 - DOMAIN-SUFFIX,ingest.sentry.io,OpenAI
 - DOMAIN-SUFFIX,ios.chat.openai.com.cdn.cloudflare.net,OpenAI
 - DOMAIN-SUFFIX,client.crisp.chat,OpenAI
+- DOMAIN-SUFFIX,o33249.ingest.sentry.io,OpenAI
