@@ -1,4 +1,7 @@
 # OpenAI (ChatGPT)
+- DOMAIN-SUFFIX,ai.com,OpenAI
+- DOMAIN-SUFFIX,api.revenuecat.com,OpenAI
+- DOMAIN-SUFFIX,browser-intake-datadoghq.com,OpenAI
 - DOMAIN-SUFFIX,chatgpt.com,OpenAI
 - DOMAIN-SUFFIX,chat.openai.com,OpenAI
 - DOMAIN-SUFFIX,auth0.openai.com,OpenAI
