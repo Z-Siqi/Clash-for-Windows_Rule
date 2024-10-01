@@ -39,7 +39,7 @@ Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Win
 * [对于Snapchat的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Snapchat)
 * [对于TikTok的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/TikTok)
 * [对于Tinder的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Tinder)
-* [对于Twitter的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Twitter)
+* [对于Twitter(X)的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Twitter)
 * [对于VK的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/VK)
 * [对于Signal的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Signal)
 * [对于WeChat的分流规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/WeChat)

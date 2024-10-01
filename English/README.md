@@ -39,7 +39,7 @@ Commonly used proxy medias Clash rules. Proxies config files format is suitable 
 * [Snapchat Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Snapchat)
 * [TikTok Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/TikTok)
 * [Tinder Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Tinder)
-* [Twitter Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Twitter)
+* [Twitter(X) Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Twitter)
 * [VK Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/VK)
 * [Signal Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Signal)
 * [WeChat Rules](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/WeChat)
