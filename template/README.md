@@ -315,4 +315,7 @@ rules:
 
 ### Reference
 
-https://dreamacro.github.io/clash/configuration/introduction.html
+~https://dreamacro.github.io/clash/configuration/introduction.html~ 
+
+原连接已404，已通过 Internet Archive 恢复到最后一个存档：
+https://web.archive.org/web/20230523202834/https://dreamacro.github.io/clash/configuration/introduction.html
