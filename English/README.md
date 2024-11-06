@@ -99,7 +99,7 @@ Commonly used proxy medias Clash rules. Proxies config files format is suitable 
 
 #### How to write rules?
 
-**[Read config template](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/template/README.md)**
+**[Read config template](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/template/English/README.md)**
 
 #### Are these rules fully working?
 
