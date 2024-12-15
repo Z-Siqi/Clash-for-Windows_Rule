@@ -26,6 +26,9 @@
 - DOMAIN-SUFFIX,gvt1.com,Google
 - DOMAIN-SUFFIX,gvt2.com,Google
 - DOMAIN-SUFFIX,gvt3.com,Google
+- DOMAIN-SUFFIX,gwtproject.org,Google
+- DOMAIN-SUFFIX,itasoftware.com,Google
+- DOMAIN-SUFFIX,recaptcha.net,Google
 - DOMAIN-KEYWORD,chrome,Google
 - DOMAIN-KEYWORD,chromium,Google
 - DOMAIN-KEYWORD,google,Google
