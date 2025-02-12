@@ -1,5 +1,7 @@
 # TikTok
 - DOMAIN-SUFFIX,tiktok.com,TikTok
+- DOMAIN-SUFFIX,douyin.com,TikTok
+- DOMAIN-SUFFIX,douyinpic.com,TikTok
 - DOMAIN-SUFFIX,bytecdn.cn,TikTok
 - DOMAIN-SUFFIX,byted.org,TikTok
 - DOMAIN-SUFFIX,bytedanceapi.com,TikTok
@@ -22,3 +24,4 @@
 - DOMAIN-SUFFIX,ipstatp.com,TikTok
 - DOMAIN-SUFFIX,tik-tokapi.com,TikTok
 - DOMAIN-KEYWORD,tiktokcdn,TikTok
+- DOMAIN-KEYWORD,douyin,TikTok
