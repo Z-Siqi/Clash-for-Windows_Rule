@@ -97,7 +97,7 @@ Clash常见/常用网站分流规则，配置文件格式适用于`Clash for Win
 
 ## 用于直连的规则
 
-* [大陆网站规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Direct)
+* [中国(PRC)网站规则](https://github.com/Z-Siqi/Clash-for-Windows_Rule/blob/main/Rule/Direct)
 
 ***
 
