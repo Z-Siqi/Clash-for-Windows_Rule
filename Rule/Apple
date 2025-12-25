@@ -17,7 +17,9 @@
 - DOMAIN-SUFFIX,itunes.com,Apple
 - DOMAIN-SUFFIX,me.com,Apple
 - DOMAIN-SUFFIX,mzstatic.com,Apple
+- DOMAIN-SUFFIX,swcdn.apple.com.w.alikunlun.com,Apple
 - DOMAIN-SUFFIX,apple.news,Apple
+- DOMAIN-KEYWORD,apple.com,Apple
 - IP-CIDR,17.0.0.0/8,Apple,no-resolve
 - IP-CIDR,63.92.224.0/19,Apple,no-resolve
 - IP-CIDR,65.199.22.0/23,Apple,no-resolve
